@@ -1,0 +1,63 @@
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0.5rem 3rem;
+}
+
+.navlink a {
+    color: #8f8f8f;
+}
+
+.navlink a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+.imgedit {
+    width: 100% !important;
+    height: 450px;
+}
+
+.box-2 {
+    margin-bottom: 8rem;
+}
+
+.cardedit .card-img, .card-img-top, .card-img-bottom {
+    width: 100%;
+    height: 200px;
+}
+
+.plan {
+    margin-bottom: 3rem;
+}
+
+.cardedit .row {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 8rem;
+}
+
+.footer {
+    margin: 0px auto;
+   padding-top: 20px;
+    background-color: rgb(12, 1, 105);
+}
+
+.footer h5 {
+    color: goldenrod;
+}
+
+.footer h6 {
+    color: greenyellow;
+}
+
+.footer p {
+    color: #fff;
+}
